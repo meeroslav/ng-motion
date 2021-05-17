@@ -19,7 +19,10 @@ The API should be simple, clear and extendable.
 
 All animations functionality should provide accessibility points, to easily switch them off or enhance for greater inclusion.
 
-Resources: [CSS-Tricks](https://css-tricks.com/accessible-web-animation-the-wcag-on-animation-explained/) [Tuts+](https://webdesign.tutsplus.com/tutorials/a-guide-to-creating-accessible-animations--cms-32038) [Smashing](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
+Resources: 
+* [CSS-Tricks](https://css-tricks.com/accessible-web-animation-the-wcag-on-animation-explained/)
+* [Tuts+](https://webdesign.tutsplus.com/tutorials/a-guide-to-creating-accessible-animations--cms-32038)
+* [Smashing](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 
 ### Testable
 
