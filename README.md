@@ -6,6 +6,10 @@
 The current solution for Angular is limited and not very ergonomic, thus often unused. Some solutions from other frameworks like [Framer Motion](https://www.framer.com/motion/), [React Spring](https://react-spring.io/), [Pop Motion](https://popmotion.io/), [Vue Gesture](https://gesture.vueuse.org/) and [Vue Motion](https://motion.vueuse.org/) have the ergonomics and simplicity of the AngularJS animations, with robustness of the Angular 2 animations while adding natural feeling to the animations.
 
 The core principals of the animation library should be:
+* **Natural** 🌳
+* **Ergonomic** 🤸
+* **Accessible** ♿
+* **Testable** 🧪
 
 ### Natural
 
